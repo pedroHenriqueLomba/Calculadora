@@ -1,4 +1,4 @@
-# Calculadora-javascript
+# Calculadora
 
 O projeto diz respeito a uma calculadora simples.
 
